@@ -1,5 +1,18 @@
 # 💰 Wallet Integrator
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Pagamentos (RPi 5 4GB)](https://github.com/AslamSys/_system/blob/main/hardware/pagamentos/README.md)** → **pagamentos-wallet-integrator**
+
+### Containers Relacionados (pagamentos)
+- [pagamentos-brain](https://github.com/AslamSys/pagamentos-brain)
+- [pagamentos-pix-gateway](https://github.com/AslamSys/pagamentos-pix-gateway)
+- [pagamentos-open-banking](https://github.com/AslamSys/pagamentos-open-banking)
+- [pagamentos-fraud-detector](https://github.com/AslamSys/pagamentos-fraud-detector)
+- [pagamentos-invoice-generator](https://github.com/AslamSys/pagamentos-invoice-generator)
+
+---
+
 **Container:** `wallet-integrator`  
 **Stack:** Node.js + SDKs (PicPay, Mercado Pago, PayPal)  
 **Propósito:** Integração com carteiras digitais
